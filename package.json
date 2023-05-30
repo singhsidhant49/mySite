@@ -1,5 +1,5 @@
 {
-  "name": "mysite",
+  "name": "incorp",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,13 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@next/font": "^13.4.4",
     "autoprefixer": "10.4.14",
-    "eslint": "8.41.0",
-    "eslint-config-next": "13.4.4",
-    "next": "13.4.4",
-    "postcss": "8.4.24",
+    "eslint": "8.40.0",
+    "eslint-config-next": "13.4.2",
+    "next": "^13.4.4",
+    "nodemailer": "^6.9.2",
+    "postcss": "8.4.23",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^4.8.0",
+    "react-toastify": "^9.1.2",
+    "sharp": "^0.32.1",
     "tailwindcss": "3.3.2"
   }
 }
