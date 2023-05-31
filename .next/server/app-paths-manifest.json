@@ -1,0 +1,11 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
+  "/opengraph-image.jpeg/route": "app/opengraph-image.jpeg/route.js",
+  "/twitter-image.jpeg/route": "app/twitter-image.jpeg/route.js",
+  "/aboutus/page": "app/aboutus/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/portfolio/page": "app/portfolio/page.js",
+  "/services/page": "app/services/page.js"
+}

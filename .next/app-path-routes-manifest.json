@@ -1,0 +1,11 @@
+{
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/opengraph-image.jpeg/route": "/opengraph-image.jpeg",
+  "/twitter-image.jpeg/route": "/twitter-image.jpeg",
+  "/aboutus/page": "/aboutus",
+  "/contact/page": "/contact",
+  "/portfolio/page": "/portfolio",
+  "/services/page": "/services"
+}
